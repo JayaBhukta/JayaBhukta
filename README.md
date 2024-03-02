@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JayaBhukta
-- 👀 I’m interested in coding and development
-- 🌱 I’m currently learning C 
+- 👋 Hi, I’m @JayaBhukta,currently I'm in 1st year of BCA
+- 👀 I’m a coding enthusiast and passionate about AIML.
+- 🌱 I’m profficient in C and currently learning python
 - 📫 How to reach me ...
 - linkedin 👉 https://www.linkedin.com/in/jaya-bhukta-a8a34321b
 
