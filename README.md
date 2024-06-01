@@ -2,8 +2,8 @@
 - 👀 I’m a coding enthusiast and passionate about AIML.
 - 🌱 I’m profficient in C and currently learning python
 - 📫 How to reach me ...
-- linkedin 👉 https://www.linkedin.com/in/jaya-bhukta-a8a34321b
-- E-mail : jayabhukta@gmail.com
+- linkedin👉 https://www.linkedin.com/in/jaya-bhukta-a8a34321b
+- E-mail 👉 jayabhukta@gmail.com
 
 <!---
 JayaBhukta/JayaBhukta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
