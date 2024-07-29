@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayaBhukta,currently I'm in 1st year of BCA
-- 👀 I’m a coding enthusiast and passionate about AIML.
+- 👀 I’m a coding enthusiast committed to drive more in the field of Artificial Intelligence & Machine Learning 
 - 🌱 I’m profficient in C,Python,Machine Learning and currently learning Deep Learning
 - 📫 How to reach me ...
 - linkedin👉 https://www.linkedin.com/in/jaya-bhukta-a8a34321b
